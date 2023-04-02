@@ -13,5 +13,7 @@ The third option installs Windows Subsystem for Linux, and gives you several opt
 The fourth option closes the script.
 
 To do:
+
 -Upgrade functionallity of option 2 to let the user choose a folder to start in
+
 -Add a 5th option that installs Vim with Chocolatey 
